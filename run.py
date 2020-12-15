@@ -1,2 +1,2 @@
-from mcm.cpp import kindyn
+from mcmpy.mcm.cpp import kindyn
 print("Success import")
